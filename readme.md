@@ -21,3 +21,7 @@
 > ### 7. aplicação faz upload de um arquivo cnab.txt, arquivo diferente não terá leitura
 >
 > ### 8. utilizando FileUploadParser para fazer as validações de upload
+>
+> ### 9. para fazer deploy utilizei o heroku. Atualizei os settings no app, criei as envs, procfile com gunicorn e rodei as migrates no heroku
+>
+> ### 10. para conectar-se com postgres você deve seguir os comandos do .env.example e criar seu arquivo .env
