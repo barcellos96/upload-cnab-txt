@@ -25,3 +25,7 @@
 > ### 9. para fazer deploy utilizei o heroku. Atualizei os settings no app, criei as envs, procfile com gunicorn e rodei as migrates no heroku
 >
 > ### 10. para conectar-se com postgres você deve seguir os comandos do .env.example e criar seu arquivo .env
+>
+> ### 11. para rodar com django-admin basta acessar a rota: https://cnab-txt.herokuapp.com/api/upload/passar-um-parametro-qualquer e adicionar um texto
+>
+> ### 12. para testar pode rodar o seguinte texto cnab >> 3201903010000014200096206760174753\*\*\*\*3153153453JOÃO MACEDO BAR DO JOÃO
