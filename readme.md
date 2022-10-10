@@ -12,7 +12,7 @@
 >
 > ### 3. alterado settings do meu app cnab_txt conforme necessidade do projeto
 >
-> ### 4. na views, seguindo a documentação do django rest frame work devemos passar um filename no momento de fazer download do arquivo
+> ### 4. na views do app cnab_documents, seguindo a documentação do django rest framework, devemos passar um 'filename' no momento de fazer download do arquivo
 >
 > ### 5. testes rodados no insomnia foi jogado todos os dados para o banco de dados
 >
